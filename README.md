@@ -32,7 +32,7 @@ A fully responsive and user-friendly job application form built with HTML and CS
 1. Clone the repository:
 
 ```bash
- git clone https://github.com/AlfishanShaikh/Job-Application-Form.git
+ https://github.com/AlfishanShaikh/Job-Application-Form
 ```
 2. Open index.html in your browser.
 
