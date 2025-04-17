@@ -5,7 +5,7 @@ A fully responsive and user-friendly job application form built with HTML and CS
 
 ## 🔗 Live Preview
 
-👉 [Click Here to View Live](https://alfishanshaikh.github.io/netflix-clone-html-css/) 
+👉 [Click Here to View Live](https://alfishanshaikh.github.io/Job-Application-Form/) 
 
 ---
 
